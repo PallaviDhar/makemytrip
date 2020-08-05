@@ -1,4 +1,4 @@
-# makemytrip
+# MakeMyTrip
 Makemytrip Clone
 
 
